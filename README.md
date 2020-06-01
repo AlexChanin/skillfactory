@@ -1,2 +1,2 @@
-# skillfactory
+# SkillFactory
 SkillFactory course
