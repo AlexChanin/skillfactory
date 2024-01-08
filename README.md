@@ -9,6 +9,5 @@
 
 [PostgreSQL Antipatterns: «Должен остаться только один!»](https://habr.com/ru/companies/tensor/articles/513324/) by kilor (Блог компании Тензор - Разработчик системы СБИС)
 
-! <br>
-
+<!-- <br> -->
 ---
